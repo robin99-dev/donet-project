@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0 450px;
+}
+
+/* banner part start */
+/* .banner-img{
+    margin: 0 450px;
+} */
+.write-part{
+    margin: 50px 100px;
+    text-align: center;
+}
+.banner-img{
+    
+}
+.button-part{
+    margin-top: 30px;
+    font-size: 25px;
+    margin-right: 25px;
+    border: none;
+    padding: 18px;
+    font-weight: bold;
+    color: rgb(144, 150, 155);
+    transition: 0.3s;
+    border-radius: 5px;
+}
+.button-part:hover{
+    background-color: orange;
+    cursor: pointer;
+    color: white;
+}
+.button{
+    text-align: center;
+}
+.socund-button-part{
+    margin-top: 30px;
+    font-size: 25px;
+    margin-right: 25px;
+    border: none;
+    padding: 18px;
+    font-weight: bold;
+    background-color: rgb(163, 140, 140);
+    color: red;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.socund-button-part:hover{
+    background-color: orange;
+    cursor: pointer;
+    border: 2px solid white;
+    color: white;
+}
+
+.input{
+    text-align: center;
+    color: rgb(163, 140, 140);;
+}
+.input-size{
+    padding: 18px 250px;
+    margin-top: 50px;
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid rgb(163, 140, 140);
+}
+.btn-donate{
+    margin-top: 50px;
+    padding: 20px 25px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.btn-donate:hover{
+    background-color: orange;
+}
+.btn{
+    text-align: center;
+}
+.donate-part{
+    text-align: center;
+    margin-top: 50px;
+}
+.paragraph-part{
+    color: rgb(163, 140, 140);
+    margin: 30px 0;
+}
+
+.donate-div-part{
+    width: 30%;
+    height: 200px;
+    margin-top: 50px;
+    border: 1px solid red;
+    padding: 50px;
+    margin-right: 12px;
+}
+.food-donate{
+    display: flex;
+}
+.one{
+    background-color: rgb(161, 203, 219);
+}
+.two{
+    background-color: rgb(230, 159, 168);
+}
+.three{
+    background-color: rgb(226, 202, 166);
+}
+
+.food-family{
+    margin: 18px 0;
+}
+
+.contribute-part{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+}
+.contribute{
+    width: 40%;
+    margin-right: 50px;
+}
+.images-part{
+    width: 60%;
+}
+.contribute-brn{
+    align-items: flex-start;
+}
+.contribute-two{
+    
+    width: 40%;
+    margin-left: 50px;
+}
+.my-updates{
+    text-align: center;
+    margin: 100px 200px;
+}
+.subscribe-part{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 40px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+
+.subscribe-inp{
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    color: rgb(226, 202, 166);
+    background-color: aliceblue;
+}
+.subscribe-btn{
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.subscribe-btn:hover{
+    background-color: orange;
+    transform: translate(10px 20px);
+}
+.footer-part{
+    background-color: rgb(26, 21, 21);
+    padding: 50px;
+    text-align: center;
+    margin: 20px 0;
+}
+.footer-text{
+    color: brown;
+}
+.footer-paragraph{
+    color: white;
+}
